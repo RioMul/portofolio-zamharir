@@ -6,14 +6,14 @@ function App() {
     title: "Bendungan Otomatis IoT",
     tech: "ESP32, Ultrasonic, Servo, Blynk",
     image: "/bendungan.jpg",
-    desc: "Bendungan otomatis yang dapat terbuka sendiri dan memberi notifikasi ketika air mencapai ketinggian tertentu.",
+    desc: "Proyek kolaborasi 4 orang untuk merancang bendungan otomatis berbasis IoT menggunakan ESP32. Bendungan otomatis yang dapat terbuka sendiri dan memberi notifikasi ketika air mencapai ketinggian tertentu.",
     github: "https://github.com/RioMul",
   },
   {
     title: "Aplikasi Intern Persuhaan",
     tech: "JavaScript,Css",
     image: "/Intern.jpg",
-    desc: "Membuat aplikasi dashboard berbasis React yang memiliki fitur CRUD, search, filter, modal detail, statistik, responsivelayout, dark mode, dan penyimpanan LocalStorage.",
+    desc: "aplikasi dashboard berbasis React yang memiliki fitur CRUD, search, filter, modal detail, statistik, responsivelayout, dark mode, dan penyimpanan LocalStorage.",
     github: "https://github.com/RioMul",
   },
   {
