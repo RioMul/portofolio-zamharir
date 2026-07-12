@@ -247,7 +247,7 @@ const experiences = [
             Unduh CV saya untuk melihat informasi lengkap mengenai pendidikan,
             kemampuan, pengalaman, dan project yang pernah saya kerjakan.
           </p>
-          <a href="/CV-Rioga.pdf" download className="btn primary">
+          <a href="/CV-Zamharir.pdf" download className="btn primary">
             Download CV
           </a>
         </div>
